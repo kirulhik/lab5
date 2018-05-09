@@ -9,7 +9,9 @@ int main()
     cout << "Enter two numbers:\n ";
     cin >> x >> y;
 	sum = x + y;
+	razn = x - y;
 	cout << "Sum of numbers: " << sum ;
+	cout << "Raznost` of numbers: " << razn ;
 
     return 0;
 }
