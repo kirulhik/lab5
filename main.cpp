@@ -10,8 +10,10 @@ int main()
     cin >> x >> y;
 	sum = x + y;
 	razn = x - y;
+	pr = x * y;
 	cout << "Sum of numbers: " << sum ;
 	cout << "Raznost` of numbers: " << razn ;
+	cout << "Delenie of numbers: " << pr ;
 
     return 0;
 }
