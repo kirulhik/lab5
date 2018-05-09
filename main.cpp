@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-/*програма является учебной*/
+/*программа является учебной*/
 int main()
 {
     int x, y, sum, pr, razn, chastn;
